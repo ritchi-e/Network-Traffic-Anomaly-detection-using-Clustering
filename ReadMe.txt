@@ -43,4 +43,4 @@ Notes
 	•	Dataset: Make sure the dataset is downloaded and placed in the correct path in your Google Drive.
 	•	Running the Notebook: The notebook is designed to be run cell by cell in the Colab environment, or it may cause the different models to overlap the variables.
 
-Group 13: Richard David, Vishwanath Singh, Ishita Singh
+ Richard David
